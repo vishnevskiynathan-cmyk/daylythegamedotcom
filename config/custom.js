@@ -1,3 +1,1 @@
 // Place your Javascript Here
-var myHtml =  '<iframe id="innerFrame" name="innerFrame" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-storage-access-by-user-activation" frameborder="0" allowfullscreen="" src="https://617766689-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html?jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.HLcjcliCxoY.O%2Fd%3D1%2Frs%3DAHpOoo-EKlLcELGvY6Qdg_kTBmN3Ra8MLw%2Fm%3D__features__" style="overflow: auto;">' +
-'</iframe>';

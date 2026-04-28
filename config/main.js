@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "dayly rust games"; // Change this to change the name of your website.
+var sitename = "dayly rust playables"; // Change this to change the name of your website.
 var subtext = "best games: cs:go clicker and basket random"; // set the subtext
 
 // more settings in main.css
